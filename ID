@@ -81,8 +81,8 @@ DataFrameIDPD = pd.DataFrame(frameDeIDPD)
 
 #Hacer Gráfica de puntos que muestre el comportamiento de "Pedestrians". Que sea una gráfica
 #por cada estado y con detalle de puertas en la horizontal
-#xIDPD=frameDePerIDPD['Port Name']
-#yIDPD=frameDePerIDPD['Value']
+#xIDPD=frameDeIDPD['Port Name']
+#yIDPD=frameDeIDPD['Value']
 #plt.scatter(xIDPD,yIDPD)
 #plt.show()
 
