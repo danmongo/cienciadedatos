@@ -81,8 +81,8 @@ DataFrameMTPD = pd.DataFrame(frameDeMTPD)
 
 #Hacer Gráfica de puntos que muestre el comportamiento de "Pedestrians". Que sea una gráfica
 #por cada estado y con detalle de puertas en la horizontal
-#xMTPD=frameDePerMTPD['Port Name']
-#yMTPD=frameDePerMTPD['Value']
+#xMTPD=frameDeMTPD['Port Name']
+#yMTPD=frameDeMTPD['Value']
 #plt.scatter(xMTPD,yMTPD)
 #plt.show()
 
