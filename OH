@@ -84,8 +84,8 @@ DataFrameOHPD = pd.DataFrame(frameDeOHPD)
 
 #Hacer Gráfica de puntos que muestre el comportaohento de "Pedestrians". Que sea una gráfica
 #por cada estado y con detalle de puertas en la horizontal
-#xOHPD=frameDePerOHPD['Port Name']
-#yOHPD=frameDePerOHPD['Value']
+#xOHPD=frameDeOHPD['Port Name']
+#yOHPD=frameDeOHPD['Value']
 #plt.scatter(xOHPD,yOHPD)
 #plt.show()
 
