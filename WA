@@ -82,8 +82,8 @@ DataFrameWAPD = pd.DataFrame(frameDeWAPD)
 
 #Hacer Gráfica de puntos que muestre el comportamiento de "Pedestrians". Que sea una gráfica
 #por cada estado y con detalle de puertas en la horizontal
-#xWAPD=frameDePerWAPD['Port Name']
-#yWAPD=frameDePerWAPD['Value']
+#xWAPD=frameDeWAPD['Port Name']
+#yWAPD=frameDeWAPD['Value']
 #plt.scatter(xWAPD,yWAPD)
 #plt.show()
 
