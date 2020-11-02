@@ -9,3 +9,5 @@ Elaborar una gráfica de puntos que muestre el comportamiento de "Pedestrians".Q
 Graficar mediante barras verticales, una para cada estado, la cantidad de "Personal Vehicles" y "Personal VehiclesPassengers", para cada puerta y acumulado de todo el año. El cual es la gráfica llamada juntos al utilizar la función merge
 
 Obtener un histograma de "Bus Passengers" para todos los estados
+
+Los programas se sacaron de esta liga: https://d2l.ibero.mx/d2l/le/content/172981/viewContent/1531483/View
