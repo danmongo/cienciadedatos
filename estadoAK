@@ -62,9 +62,9 @@ DataFrameAKPD = pd.DataFrame(frameDeAKPD)
 
 
 #Gráfica de lineas por estado sin detalles de puertas, que muestra el movimiento de Personal Vehicles
-#xAKPD=DataFrameAKPD['Date']
-#yAKPD=DataFrameAKPD['Value']
-#plt.plot(xAKPD,yAKPD)
+#xAKPV=DataFrameAKPV['Date']
+#yAKPV=DataFrameAKPV['Value']
+#plt.plot(xAKPV,yAKPV)
 #plt.show()
 
 
